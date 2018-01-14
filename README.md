@@ -24,4 +24,5 @@
   - [阮一峰ECMAScript6入门](http://es6.ruanyifeng.com/)
 - vue.js
   - [vue.js教程](http://wiki.jikexueyuan.com/project/vue-js/)
+  
 学习时要注意效率，经常复习和总结，多动手做项目。希望这段学习能有一个好的结果！
