@@ -5,7 +5,7 @@
 - Git 版本控制
 - 互联网协议
 - HTML5
-  - [MDN的HTML5入门教程](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5)
+  - [MDN的HTML5入门教程](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5/Introduction_to_HTML5)
   - [网易云课堂HTML5入门](http://study.163.com/course/introduction/171001.htm#/courseDetail)
 - CSS3
   - [CSS3菜鸟教程](http://www.runoob.com/css3/css3-tutorial.html)
@@ -15,9 +15,13 @@
   - [自适应网页设计——阮一峰](http://www.ruanyifeng.com/blog/2012/05/responsive_web_design.html)
   - [什么是响应式web设计？怎样进行？](http://beforweb.com/node/6)
 - Web Animation
+  - [CSS动画](http://www.ruanyifeng.com/blog/2014/02/css_transition_and_animation.html)
+  - [Canvas动画教程](http://link.zhihu.com/?target=https%3A//developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Tutorial)
 - Bootstrap
+  - [慕课网玩转Bootstramp](http://www.imooc.com/learn/141)
 - jQuery Ajax
-- es6
+- ECMA6
+  - [阮一峰ECMAScript6入门](http://es6.ruanyifeng.com/)
 - vue.js
-
+  - [vue.js教程](http://wiki.jikexueyuan.com/project/vue-js/)
 学习时要注意效率，经常复习和总结，多动手做项目。希望这段学习能有一个好的结果！
